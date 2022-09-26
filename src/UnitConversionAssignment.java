@@ -30,6 +30,7 @@ public class UnitConversionAssignment {
                 break;
             case "in":
                 lengthInMeters = inputNum / (float) 39.3701;
+                break;
             default:
                 System.out.println("Your input cannot be handled by the program. Please try again.");
                 return targetNum;
@@ -59,6 +60,7 @@ public class UnitConversionAssignment {
                 break;
             case "in":
                 targetNum = lengthInMeters * (float) 39.3701;
+                break;
             default:
                 System.out.println("Your input cannot be handled by the program. Please try again.");
                 return targetNum;
