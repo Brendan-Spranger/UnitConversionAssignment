@@ -1,18 +1,5 @@
-## Getting Started
+Greetings! Welcome to the Unit Conversion Tool powered by Java!
+This program is able to convert units of length. Acceptable units include: km, m, cm, mm, mi, yd, ft, and in.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Please input your desired conversion, for example, 1 mi = km.
+Enter 'exit' when you are ready to exit the program.
